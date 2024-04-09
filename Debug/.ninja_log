@@ -1,0 +1,52 @@
+# ninja log v5
+316	662	7257426930342016	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/ADC0_Ain0_Init.o	91feecc38d31675e
+18	304	7257426926504371	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/Bluetooth.o	21128becf598426
+1	338	7257426926774204	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/DIO.o	3dd3276bf08ba478
+348	689	7257426930411951	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/lcd.o	c7f1a0527e7cdc9c
+700	955	7257426933280152	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/Timer.o	27366f6934963a05
+967	1194	7257426935688661	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/fume.o	651fd2c442f78766
+878	1233	7257426936068428	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/ultrasonic.o	214ce2f679654fbf
+1	225	7257428775135924	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/main.o	226ac6f0aee73d3a
+2	307	7257431201749090	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/fume.o	651fd2c442f78766
+19	432	7257431202948333	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/main.o	226ac6f0aee73d3a
+443	647	7257431205047050	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	82decd50bf161d71
+3	310	7257434898281873	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/main.o	226ac6f0aee73d3a
+318	422	7257434899431119	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	82decd50bf161d71
+4	255	7257435581497172	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Obj/main.o	226ac6f0aee73d3a
+266	389	7257435582836301	G:/Senior 1/Embedded Systems/Project/Final_Sent_V1/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	82decd50bf161d71
+765	2281	7258895327002768	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/Bluetooth.o	ec5df362ba9e1abd
+397	2644	7258895327022719	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/ADC0_Ain0_Init.o	f04041ae90fc6901
+1	2650	7258895327122447	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/DIO.o	2842dcab3e2fb0a9
+1464	2672	7258895327541328	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+1792	2678	7258895327571252	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/Timer.o	6b99ba11a4619433
+1137	2684	7258895327621143	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/ultrasonic.o	7371e16b312b746e
+2288	2748	7258895331846719	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/lcd.o	bdae867cec38731a
+2753	4199	7258895346346890	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+2	683	7258905364601911	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+687	1432	7258905372109714	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	705	7258912717895008	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+710	889	7258912719760254	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+2	669	7258933531491974	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+673	878	7258933533603494	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	528	7258935667228584	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+533	729	7258935669287628	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+2	683	7258937549027686	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+688	867	7258937550887202	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	650	7258943369380862	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+654	845	7258943371332383	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	691	7258955031988908	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+694	867	7258955033774131	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+2	677	7258959109395024	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+681	859	7258959111231844	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	517	7258965752503148	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+522	719	7258965754548013	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+2	709	7258973591952541	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+714	886	7258973593778203	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+2	845	7259006668621637	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+850	1687	7259006677047820	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	661	7259008142791780	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+667	914	7259008145330254	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	652	7259009320522085	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+657	898	7259009322968981	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b
+1	798	7259009958863843	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Obj/main.o	57b8636cad7ddc93
+802	1009	7259009960972061	C:/Users/Mazen Mohamed/Desktop/Fall23/Embedded/last/Embedded Project Complete Integration/Debug/Exe/Project-INTEGRATION.out	f05f96697e26c98b

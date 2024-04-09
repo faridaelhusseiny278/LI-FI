@@ -1,0 +1,1 @@
+﻿"D:\ASU\Embedded Project Complete Integration\adc.c" -o "D:\ASU\Embedded Project Complete Integration\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M3 -e --fpu=None --dlib_config "D:\IAR Embedded Workbench\arm\inc\c\DLib_Config_Normal.h" -Ol
